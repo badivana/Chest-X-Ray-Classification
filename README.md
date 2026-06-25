@@ -147,11 +147,4 @@ GitHub: https://github.com/badivana
 
 This project is licensed under the MIT License.
 
-## 📌 Features
-✅ **Dataset Preprocessing & Augmentation**  
-✅ **Building a CNN Model from Scratch**  
-✅ **Model Training & Validation**  
-✅ **Performance Evaluation & Metrics**  
-✅ **Making Predictions on New X-ray Images**  
-
 
