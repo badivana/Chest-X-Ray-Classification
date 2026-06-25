@@ -22,4 +22,4 @@ We use the **Chest X-Ray Dataset** for pneumonia detection.
 ✅ **Performance Evaluation & Metrics**  
 ✅ **Making Predictions on New X-ray Images**  
 
-🔔 **If you found this project helpful, please ⭐ the repository!** 
+
